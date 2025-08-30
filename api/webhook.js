@@ -1,4 +1,4 @@
-module.exports = async (req, res) => {
+export default async function handler(req, res) {
   try {
     // Set CORS headers
     res.setHeader('Access-Control-Allow-Origin', '*');
@@ -34,10 +34,11 @@ module.exports = async (req, res) => {
     // TODO: Add full bot functionality back
     return res.status(200).json({ 
       ok: true,
-      message: 'Webhook received',
+      message: 'Webhook received successfully!',
       updateType: update.message ? 'message' : 
                   update.callback_query ? 'callback_query' : 
-                  update.pre_checkout_query ? 'pre_checkout_query' : 'unknown'
+                  update.pre_checkout_query ? 'pre_checkout_query' : 'unknown',
+      timestamp: new Date().toISOString()
     });
 
   } catch (error) {
@@ -47,4 +48,4 @@ module.exports = async (req, res) => {
       message: error.message 
     });
   }
-};
+}
