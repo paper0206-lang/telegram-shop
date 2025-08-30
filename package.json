@@ -1,0 +1,31 @@
+{
+  "name": "telegram-shop",
+  "version": "1.0.0",
+  "description": "A simple Telegram shop bot with Telegram Wallet support",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot-local.js",
+    "dev": "node --watch src/bot-local.js",
+    "webhook:set": "node scripts/setWebhook.js",
+    "webhook:delete": "node scripts/setWebhook.js delete",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "shop",
+    "ecommerce",
+    "telegram-stars",
+    "wallet"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0",
+    "xlsx": "^0.18.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

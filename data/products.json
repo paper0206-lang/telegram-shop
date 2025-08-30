@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "name": "💊 Super P-Force Oral Jelly",
+    "description": "口服果凍劑型，易於服用，起效快速。包裝規格: 7*5gm。請諮詢醫師使用建議。",
+    "price": 150,
+    "category": "保健品",
+    "image": "https://picsum.photos/400/300?random=1",
+    "stock": 36,
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "💊 Malegra Pro 100",
+    "description": "含西地那非成分的男性健康產品，有助於改善血液循環。包裝規格: Sildenafil。請諮詢醫師使用建議。",
+    "price": 170,
+    "category": "男性健康",
+    "image": "https://picsum.photos/400/300?random=2",
+    "stock": 14,
+    "featured": true
+  },
+  {
+    "id": "3",
+    "name": "💊 Vidalista 20",
+    "description": "含他達拉非成分的長效男性健康產品，作用時間長達36小時。包裝規格: 10*10。請諮詢醫師使用建議。",
+    "price": 160,
+    "category": "男性健康",
+    "image": "https://picsum.photos/400/300?random=3",
+    "stock": 51,
+    "featured": true
+  },
+  {
+    "id": "4",
+    "name": "💊 Vidalista 40",
+    "description": "含他達拉非成分的長效男性健康產品，作用時間長達36小時。包裝規格: 10*10。請諮詢醫師使用建議。",
+    "price": 350,
+    "category": "男性健康",
+    "image": "https://picsum.photos/400/300?random=4",
+    "stock": 17,
+    "featured": true
+  },
+  {
+    "id": "5",
+    "name": "💊 Suhagra 50",
+    "description": "含西地那非成分的男性健康產品，有助於改善血液循環。包裝規格: Sildenafil。請諮詢醫師使用建議。",
+    "price": 10,
+    "category": "男性健康",
+    "image": "https://picsum.photos/400/300?random=5",
+    "stock": 36,
+    "featured": true
+  },
+  {
+    "id": "6",
+    "name": "💊 Tadarise-5",
+    "description": "含他達拉非成分的長效男性健康產品，作用時間長達36小時。包裝規格: 10*10。請諮詢醫師使用建議。",
+    "price": 130,
+    "category": "男性健康",
+    "image": "https://picsum.photos/400/300?random=6",
+    "stock": 30,
+    "featured": false
+  },
+  {
+    "id": "7",
+    "name": "💊 Tadarise-20",
+    "description": "含他達拉非成分的長效男性健康產品，作用時間長達36小時。包裝規格: 10*10。請諮詢醫師使用建議。",
+    "price": 170,
+    "category": "男性健康",
+    "image": "https://picsum.photos/400/300?random=7",
+    "stock": 16,
+    "featured": false
+  },
+  {
+    "id": "8",
+    "name": "💊 Tadarise Pro-40",
+    "description": "含他達拉非成分的長效男性健康產品，作用時間長達36小時。包裝規格: 10*10。請諮詢醫師使用建議。",
+    "price": 340,
+    "category": "男性健康",
+    "image": "https://picsum.photos/400/300?random=8",
+    "stock": 59,
+    "featured": false
+  },
+  {
+    "id": "9",
+    "name": "💊 Tadarise-Pro-20",
+    "description": "含他達拉非成分的長效男性健康產品，作用時間長達36小時。包裝規格: 10*10。請諮詢醫師使用建議。",
+    "price": 170,
+    "category": "男性健康",
+    "image": "https://picsum.photos/400/300?random=9",
+    "stock": 54,
+    "featured": false
+  },
+  {
+    "id": "10",
+    "name": "💊 Cenforce 100",
+    "description": "含西地那非成分的男性健康產品，有助於改善血液循環。包裝規格: Sildenafil。請諮詢醫師使用建議。",
+    "price": 200,
+    "category": "男性健康",
+    "image": "https://picsum.photos/400/300?random=10",
+    "stock": 39,
+    "featured": false
+  },
+  {
+    "id": "11",
+    "name": "💊 Cenforce 150",
+    "description": "含西地那非成分的男性健康產品，有助於改善血液循環。包裝規格: Sildenafil。請諮詢醫師使用建議。",
+    "price": 310,
+    "category": "男性健康",
+    "image": "https://picsum.photos/400/300?random=11",
+    "stock": 53,
+    "featured": false
+  },
+  {
+    "id": "12",
+    "name": "💊 Cenforce 200",
+    "description": "含西地那非成分的男性健康產品，有助於改善血液循環。包裝規格: Sildenafil。請諮詢醫師使用建議。",
+    "price": 300,
+    "category": "男性健康",
+    "image": "https://picsum.photos/400/300?random=12",
+    "stock": 59,
+    "featured": false
+  },
+  {
+    "id": "13",
+    "name": "💊 Cobra 200 Sildenafil Citrate",
+    "description": "含西地那非成分的男性健康產品，有助於改善血液循環。包裝規格: Sildenafil。請諮詢醫師使用建議。",
+    "price": 60,
+    "category": "男性健康",
+    "image": "https://picsum.photos/400/300?random=13",
+    "stock": 34,
+    "featured": false
+  },
+  {
+    "id": "14",
+    "name": "💊 Poxet-90 Dapoxetine",
+    "description": "含達泊西汀成分的男性健康產品，有助於提升生活品質。包裝規格: 10*10。請諮詢醫師使用建議。",
+    "price": 1000,
+    "category": "男性健康",
+    "image": "https://picsum.photos/400/300?random=14",
+    "stock": 50,
+    "featured": false
+  },
+  {
+    "id": "15",
+    "name": "💊 Extra Super P-Force Avanafil",
+    "description": "含阿伐那非成分的快效男性健康產品。包裝規格: Dapoxetine。請諮詢醫師使用建議。",
+    "price": 110,
+    "category": "男性健康",
+    "image": "https://picsum.photos/400/300?random=15",
+    "stock": 32,
+    "featured": false
+  }
+]
